@@ -13,6 +13,8 @@ Even if a champion is not thinking of stepping down, providing opportunities for
 --- collapse ---
 
 ---
+title: In summary
+---
 ### In summary:
 
 + Dojos provide unique opportunities to young people and adults locally
@@ -33,6 +35,8 @@ Even if a champion is not thinking of stepping down, providing opportunities for
 --- /collapse ---
 
 --- collapse ---
+
+title: What you will need
 ---
 From this we can estimate that roughly a fifth to a quarter of Dojos have overly concentrated responsibilities, and that unsuccessful hand-over is a key issue in terms of Dojo sustainability when circumstances mean a champion can no longer continue in the role as before.
 
@@ -41,7 +45,7 @@ It is worth noting that even if Dojo responsibilities are shared out, not planni
 
 --- /collapse ---
 
---- /collapse ---
+--- collapse ---
 ---
 title: Additional information
 ---
