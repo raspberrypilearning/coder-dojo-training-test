@@ -16,7 +16,7 @@ If yes, are they prepared? Do they know what tasks/responsibilities it entails a
 
 --- task ---
 
-Does the current champion provide anything for the Dojo that is necessary for running it? Eg. relationship with those managing the venue, hardware, fundraising
++ Does the current champion provide anything for the Dojo that is necessary for running it? Eg. relationship with those managing the venue, hardware, fundraising
 
 --- /task ---
 
@@ -33,30 +33,30 @@ Does the Dojo have volunteer(s) with relevant skills and experience to succeed a
 --- /task ---
 --- task ---
 
-6. Would the Dojo lose useful historical/organisational knowledge or important contacts if the champion had to leave abruptly?
+Would the Dojo lose useful historical/organisational knowledge or important contacts if the champion had to leave abruptly?
 
 --- /task ---
 
 --- task ---
-7. Do others in the Dojo have access and permissions to update the Dojos profile on the CoderDojo platform (Zen), either as co-champion or administrator? [If not you can learn how to add them as co-champion here](https://help.coderdojo.com/cdkb/s/article/Adding-a-co-champion) Do others have access to the Dojo email inbox?
-
---- /task ---
-
---- task ---
-
-8. Is the current champions amount of responsibility realistic? What skills need to be replicated in the successor champion and what could be developed among the wider volunteer team?
+Do others in the Dojo have access and permissions to update the Dojos profile on the CoderDojo platform (Zen), either as co-champion or administrator? [If not you can learn how to add them as co-champion here](https://help.coderdojo.com/cdkb/s/article/Adding-a-co-champion) Do others have access to the Dojo email inbox?
 
 --- /task ---
 
 --- task ---
 
-9. Are there other volunteers other than the champion that could leave the Dojo vulnerable should they depart? What plans are in place to address this?
+Is the current champions amount of responsibility realistic? What skills need to be replicated in the successor champion and what could be developed among the wider volunteer team?
 
 --- /task ---
 
 --- task ---
 
-10. Are there any tools, site accounts, email inboxes, historical records or data that need to be accessed in order to effectively manage the club?
+Are there other volunteers other than the champion that could leave the Dojo vulnerable should they depart? What plans are in place to address this?
+
+--- /task ---
+
+--- task ---
+
+Are there any tools, site accounts, email inboxes, historical records or data that need to be accessed in order to effectively manage the club?
 
 --- /task ---
 
