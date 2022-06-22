@@ -1,59 +1,54 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Dojos not only provide creative learning opportunities for young people, they also bring adults together; forging connections, learning experiences and friendships. The network of Dojos also enables a local club to connect with a global community, enter international competitions, attend online and in-person events and avail of free resources and training.
 
 ### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+By thinking about and planning for succession before a need arises, you are making sure the opportunities the club provides can continue to benefit the local area, even if you can't be there.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
+Even if a champion is not thinking of stepping down, providing opportunities for mentors and volunteers to take on more responsibilities and develop new skills can be an important way to motivate volunteers to keep coming back. This succession guide can be used as a toolkit to help develop a team of co-champions or lead mentors which allows for the club to run sessions even if some lead volunteers aren't available. This can help reduce burnout.
 --- print-only ---
 ![Complete project](images/showcase_static.png)
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: In summary
 ---
-### Hardware
+### In summary:
 
-+ A computer or tablet capable of running Scratch 3
++ Dojos provide unique opportunities to young people and adults locally
++ Succession planning ensures the club continues to benefit the local area, even if the original champion can no longer participate
++ Sharing out responsibilities can motivate volunteers to keep returning by encouraging the development of new skills and giving them greater purpose.
++ Developing a team, so no club is dependent on one person to do all tasks, helps prevent volunteer burnout.
 
-### Software
+### We know that many Dojos rely on a small number of people to manage them
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ 22% of Dojos have just one person managing all Dojo responsibilities. 
++ 52% of Dojos have responsibilities of the club concentrated on three or less people.
 
-### Downloads
+### The inability to identify a successor champion has been a cause of Dojos no longer running.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ 26% reported the lack of a successor was their key reason for closing the club. 
++ This affected Dojos of all ages in similar proportions.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
----
+From this we can estimate that roughly a fifth to a quarter of Dojos have overly concentrated responsibilities, and that unsuccessful hand-over is a key issue in terms of Dojo sustainability when circumstances mean a champion can no longer continue in the role as before.
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+It is worth noting that even if Dojo responsibilities are shared out, not planning for champion succession can reduce the sustainability and effectiveness of a Dojo.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Additional information
 ---
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this resource, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
 
 --- /collapse ---
