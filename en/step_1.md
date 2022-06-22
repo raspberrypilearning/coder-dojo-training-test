@@ -7,13 +7,9 @@ Dojos not only provide creative learning opportunities for young people, they al
 By thinking about and planning for succession before a need arises, you are making sure the opportunities the club provides can continue to benefit the local area, even if you can't be there.
 
 Even if a champion is not thinking of stepping down, providing opportunities for mentors and volunteers to take on more responsibilities and develop new skills can be an important way to motivate volunteers to keep coming back. This succession guide can be used as a toolkit to help develop a team of co-champions or lead mentors which allows for the club to run sessions even if some lead volunteers aren't available. This can help reduce burnout.
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
 --- collapse ---
----
-title: In summary
+
 ---
 ### In summary:
 
@@ -32,7 +28,6 @@ title: In summary
 + 26% reported the lack of a successor was their key reason for closing the club. 
 + This affected Dojos of all ages in similar proportions.
 
-
 --- /collapse ---
 
 --- collapse ---
@@ -44,7 +39,7 @@ It is worth noting that even if Dojo responsibilities are shared out, not planni
 
 --- /collapse ---
 
---- collapse ---
+--- /collapse ---
 ---
 title: Additional information
 ---
