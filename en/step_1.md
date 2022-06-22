@@ -2,7 +2,7 @@
 
 Dojos not only provide creative learning opportunities for young people, they also bring adults together; forging connections, learning experiences and friendships. The network of Dojos also enables a local club to connect with a global community, enter international competitions, attend online and in-person events and avail of free resources and training.
 
-### What you will make
+### The importance of succession planning
 
 By thinking about and planning for succession before a need arises, you are making sure the opportunities the club provides can continue to benefit the local area, even if you can't be there.
 
