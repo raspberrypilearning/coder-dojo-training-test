@@ -4,7 +4,9 @@ Dojos not only provide creative learning opportunities for young people, they al
 
 ### The importance of succession planning
 
-By thinking about and planning for succession before a need arises, you are making sure the opportunities the club provides can continue to benefit the local area, even if you can't be there.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+By thinking about and **planning for succession before a need arises**, you are making sure the **opportunities the club provides can continue** to benefit the local area, even if you can't be there.
+</p>
 
 Even if a champion is not thinking of stepping down, providing opportunities for mentors and volunteers to take on more responsibilities and develop new skills can be an important way to motivate volunteers to keep coming back. This succession guide can be used as a toolkit to help develop a team of co-champions or lead mentors which allows for the club to run sessions even if some lead volunteers aren't available. This can help reduce burnout.
 
