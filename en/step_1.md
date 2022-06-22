@@ -10,8 +10,8 @@ By thinking about and **planning for succession before a need arises**, you are 
 
 Even if a champion is not thinking of stepping down, providing opportunities for mentors and volunteers to take on more responsibilities and develop new skills can be an important way to motivate volunteers to keep coming back. This succession guide can be used as a toolkit to help develop a team of co-champions or lead mentors which allows for the club to run sessions even if some lead volunteers aren't available. This can help reduce burnout.
 
---- collapse ---
 
+--- collapse ---
 ---
 title: In summary
 ---
@@ -34,16 +34,16 @@ title: In summary
 
 --- /collapse ---
 
---- collapse ---
 
+--- collapse ---
+---
 title: What you will need
 ---
 From this we can estimate that roughly a fifth to a quarter of Dojos have overly concentrated responsibilities, and that unsuccessful hand-over is a key issue in terms of Dojo sustainability when circumstances mean a champion can no longer continue in the role as before.
 
 It is worth noting that even if Dojo responsibilities are shared out, not planning for champion succession can reduce the sustainability and effectiveness of a Dojo.
-
-
 --- /collapse ---
+
 
 --- collapse ---
 ---
