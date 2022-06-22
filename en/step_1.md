@@ -20,11 +20,11 @@ Even if a champion is not thinking of stepping down, providing opportunities for
 
 --- collapse ---
 ---
-title: In summary
+title: Some stats
 ---
 
 
-### We know that many Dojos rely on a small number of people to manage them
+### Many Dojos rely on a small number of people to manage them
 
 + 22% of Dojos have just one person managing all Dojo responsibilities. 
 + 52% of Dojos have responsibilities of the club concentrated on three or less people.
@@ -37,14 +37,10 @@ title: In summary
 --- /collapse ---
 
 
---- collapse ---
----
-title: What you will need
----
 From this we can estimate that roughly a fifth to a quarter of Dojos have overly concentrated responsibilities, and that unsuccessful hand-over is a key issue in terms of Dojo sustainability when circumstances mean a champion can no longer continue in the role as before.
 
 It is worth noting that even if Dojo responsibilities are shared out, not planning for champion succession can reduce the sustainability and effectiveness of a Dojo.
---- /collapse ---
+
 
 
 --- collapse ---
