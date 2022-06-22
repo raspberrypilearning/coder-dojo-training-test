@@ -5,18 +5,18 @@ The following questionnaire can be printed out, discussed and completed by the c
 If the current champion was unable to support or manage the Dojo in any capacity, effective immediately:
 
 --- task ---
-+ Do you have a succession plan ready to follow?
+Do you have a succession plan ready to follow?
 --- /task ---
 
 --- task ---
 
-+ Do you have volunteer(s) identified to take on the role, it's relevant tasks and  responsibilities?
+Do you have volunteer(s) identified to take on the role, it's relevant tasks and  responsibilities?
 If yes, are they prepared? Do they know what tasks/responsibilities it entails and do they have the necessary skills and knowledge to carry them out?
 --- /task ---
 
 --- task ---
 
-+ Does the current champion provide anything for the Dojo that is necessary for running it? Eg. relationship with those managing the venue, hardware, fundraising
+Does the current champion provide anything for the Dojo that is necessary for running it? Eg. relationship with those managing the venue, hardware, fundraising
 
 --- /task ---
 
