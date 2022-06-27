@@ -31,8 +31,8 @@ The type of plan your Dojo chooses depends on what stage in the process you are 
 **- Team development (rainy-day succession)**
 **- Future planned succession**
 **- Emergency succession**
--- Review and discuss the readiness checklist
--- Use and adapt the “Champions tasks template” 
+--- Review and discuss the readiness checklist
+--- Use and adapt the “Champions tasks template” 
 
 
 In advance of choosing which succession plan suits your needs it is worth looking at what is already working well in your Dojo in terms of mentor development, and what isn’t. You can build on what is working well using this toolkit.
