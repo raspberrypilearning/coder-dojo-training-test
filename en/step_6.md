@@ -4,5 +4,5 @@ The diverse nature of Dojos mean that these responsibilities of champions are of
 The tasks template is available at [rpf.io/](http://rpf.io/){:target='_blank'}
 
 <embed src="images/task.png" width="600" height="1000" 
- type="application/png">
+ type="application/pdf">
 <br>
