@@ -9,7 +9,7 @@ Champions are already volunteering their free time to organize and run a Dojo, s
 **Tip:** Use our readiness checklist and step-by-step toolkit to help save time. Schedule 30 minutes to review the checklist. Work with others involved with the Dojo to help reduce the workload. Succession is all about training people in new responsibilities and skills, not an additional task for the champion.
   </p>
 
-### Apprehension
+### Champion apprehension
 
 The Champion may be apprehensive about starting a process which they could see as looking to replace them
 
@@ -17,6 +17,7 @@ The Champion may be apprehensive about starting a process which they could see a
 **Tip:** Lead mentors should support the champion during the succession process so they continue to feel valued. The champion should be included in discussing “The importance of succession planning”, so they see the importance of developing at minimum an emergency succession plan.
   </p>
 
+### Alientating volunteers
 Concern that identifying champion successors may alienate volunteers not selected, who could become unhappy and leave
 
 
