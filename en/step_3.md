@@ -1,6 +1,6 @@
 ## Potential barriers and tips to overcome them
 
-###Lack of time to plan for succession
+### Lack of time to plan for succession
 
 Champions are already volunteering their free time to organize and run a Dojo, so it can be hard to find additional time to think about succession planning. Particularly so if stepping away from the Dojo isn't something they haven't considered in the near future.
 
