@@ -3,6 +3,6 @@ The diverse nature of Dojos mean that these responsibilities of champions are of
 
 The tasks template is available at [rpf.io/](http://rpf.io/){:target='_blank'}
 
-<embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
+<embed src="images/task.png" width="790" height="500" 
  type="application/pdf">
 <br>
