@@ -1,11 +1,12 @@
-## Potential barriers and tips to overcome them
+## Overcoming potential barriers
+
 
 ### Lack of time to plan for succession
 
 Champions are already volunteering their free time to organize and run a Dojo, so it can be hard to find additional time to think about succession planning. Particularly so if stepping away from the Dojo isn't something they haven't considered in the near future.
 
 --- task ---
-*Tip:* Use our readiness checklist and step-by-step toolkit to help save time. Schedule 30 minutes to review the checklist. Work with others involved with the Dojo to help reduce the workload. Succession is all about training people in new responsibilities and skills, not an additional task for the champion.
+**Tip:** Use our readiness checklist and step-by-step toolkit to help save time. Schedule 30 minutes to review the checklist. Work with others involved with the Dojo to help reduce the workload. Succession is all about training people in new responsibilities and skills, not an additional task for the champion.
 
 --- /task ---
 
