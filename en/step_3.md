@@ -1,12 +1,28 @@
-## What next?
+## Potential barriers and tips to overcome them
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+###Lack of time to plan for succession
 
-![ProjectName project](images/projectname-project.png)
+Champions are already volunteering their free time to organize and run a Dojo, so it can be hard to find additional time to think about succession planning. Particularly so if stepping away from the Dojo isn't something they haven't considered in the near future.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- task ---
+*Tip:* Use our readiness checklist and step-by-step toolkit to help save time. Schedule 30 minutes to review the checklist. Work with others involved with the Dojo to help reduce the workload. Succession is all about training people in new responsibilities and skills, not an additional task for the champion.
 
- <iframe width="560" height="315" src="https://dacastdd.s.llnwi.net/signedurl-vz1/inline/vzaar/vza/55e/target/vza55e878b33da44ba913b4eeff3da3cfb_HD.mp4?p=112&s=1656000645&e=1656004245&X-Dacast-Vod=550f494c40a0246edad34d43cf5bfadc&h=ad97e0e7051fbfcf3414a1ccf19e3622 " frameborder="0" allowfullscreen></iframe>
+--- /task ---
 
-<iframe width:"100%" src="https://www.youtube.com/embed/7sWmA4pTCuQ?list=PLQBFqko3_sHXjYk1jnQCt_Mqtqi5gWM6t" title="Why people volunteer with CoderDojo, and tips to align motivations." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### The Champion may be apprehensive about starting a process which they could see as looking to replace them
+
+--- task ---
+Tip: Lead mentors should support the champion during the succession process so they continue to feel valued. The champion should be included in discussing “The importance of succession planning”, so they see the importance of developing at minimum an emergency succession plan.
+
+
+--- /task ---
+
+Concern that identifying champion successors may alienate volunteers not selected, who could become unhappy and leave
+
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  *Tip:* Make sure all volunteers feel valued during the process. Asking mentors about their motivations for getting involved, and aligning them with roles available in the Dojo will help, as will feedback sessions after sessions to celebrate what went well. Remember the successor can be more than just one volunteer. In fact it's more sustainable to develop a team of lead mentors, or separate out the role amount two or three co-champions.
+  </p>
+
+
 
