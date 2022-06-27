@@ -28,9 +28,9 @@ Informing the Foundation, succession and follow up
 ## Succession plan types
 The type of plan your Dojo chooses depends on what stage in the process you are in relation to champion succession. At the very least the steps in the emergency succession plan should be covered.
 
-- Team development (rainy-day succession)
-- Future planned succession
-- Emergency succession
+**- Team development (rainy-day succession)**
+**- Future planned succession**
+**- Emergency succession**
 -- Review and discuss the readiness checklist
 -- Use and adapt the “Champions tasks template” 
 
